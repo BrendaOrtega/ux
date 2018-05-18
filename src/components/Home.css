@@ -175,3 +175,15 @@
 .news img{
     width:80%;
 }
+
+@media(max-width: 450px){
+    .slide h1{
+        font-size: 50px;
+    }
+    .box_about h2{
+        font-size: 35px;
+    }
+    .box_about p{
+        font-size: 18px;
+    }
+}
